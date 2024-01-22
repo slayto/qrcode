@@ -1,0 +1,17 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+
+p{
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+
+.fw-600{
+    font-weight: 800;
+} 
+
+.round-edge{
+    border-radius: 20px;
+}
